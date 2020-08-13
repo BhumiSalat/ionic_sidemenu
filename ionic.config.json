@@ -1,0 +1,7 @@
+{
+  "name": "firstsidemnu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
